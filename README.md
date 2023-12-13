@@ -9,4 +9,8 @@ Como vemos, son gráficos que ayudan a ver el rendimiento de las sucursales de u
 
 Si bien con el dataset también se podían sacar algunos gráficos más, tengo más proyectos planteados para realizar y este está bastante completo como para abarcar lo más importante.
 
+Por último, se creo una aplicación Web algo simple para ver como se verían los gráficos en un dashboard.
+
+### Rodrigo Alegre - Científico de datos | Analísta de datos
+
 Mi [LinkedIn](https://www.linkedin.com/in/rodrigoalegre1/)
